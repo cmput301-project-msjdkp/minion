@@ -7,7 +7,7 @@ public abstract class Shape {
     public Shape(int x, int y,String color){
         this.x = x;
         this.y = y;
-        this.color='Blue'
+        this.color='Bluey'
     }
     public int getX(){
         return this.x;
