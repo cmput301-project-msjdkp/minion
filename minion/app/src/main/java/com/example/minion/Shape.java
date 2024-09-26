@@ -3,7 +3,8 @@ package com.example.minion;
 public abstract class Shape {
     private int x;
     private int y;
-    private String color = "indigo";
+    private String color = "violet";
+
     public Shape(int x, int y){
         this.x = x;
         this.y = y;
